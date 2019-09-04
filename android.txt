@@ -1,0 +1,4 @@
+broadcast receiver
+respond to system wide announcemnents
+postman
+check respond of api
